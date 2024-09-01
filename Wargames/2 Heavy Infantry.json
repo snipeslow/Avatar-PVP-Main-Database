@@ -1,0 +1,33 @@
+{
+"Tank": {
+    "DisplayName": "Tank",
+    "ChestDMG": 80,
+    "ChestDMGShieldRatio": 0.5,
+    "HeadDMG": 100,
+    "HeadDMGShieldRatio": 0.75,
+    "DOTDMG": 160,
+    "DOTEffectRatio": 0.8,
+    "HOTAmount": 180,
+    "ElectricDMG": 10,
+    "FireDMG": 160,
+    "PoisonDMG": 13,
+    "IceDMG": 50,
+    "IceEffectRatio": 0.4,
+    "StunEffectRatio": 0.1,
+    "SlowEffectRatio": 0.6,
+    "SpeedEffectRatio": 1.8,
+    "RepairAmount": -28,
+    "RadRate": 1.25,
+    "PushPower": 8,
+    "JumpSpeed": 4,
+    "DoubleJumpSpeed": 0,
+    "DashSpeed": 8,
+    "RunSpeed": 4,
+    "WalkSpeed": 3,
+    "StrafeSpeed": 3,
+    "Tags": [
+        "Default",
+        "Tank"
+        ]
+    }
+}

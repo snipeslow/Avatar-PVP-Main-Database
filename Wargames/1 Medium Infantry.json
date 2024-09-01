@@ -1,0 +1,33 @@
+{
+"Assault": {
+    "DisplayName": "Assault",
+    "ChestDMG": 200,
+    "ChestDMGShieldRatio": 0.5,
+    "HeadDMG": 1900,
+    "HeadDMGShieldRatio": 0.75,
+    "DOTDMG": 200,
+    "DOTEffectRatio": 0.8,
+    "HOTAmount": 250,
+    "ElectricDMG": 80,
+    "FireDMG": 280,
+    "PoisonDMG": 16,
+    "IceDMG": 80,
+    "IceEffectRatio": 0.4,
+    "StunEffectRatio": 0.1,
+    "SlowEffectRatio": 0.6,
+    "SpeedEffectRatio": 1.8,
+    "RepairAmount": -70,
+    "RadRate": 2,
+    "PushPower": 16,
+    "JumpSpeed": 5,
+    "DoubleJumpSpeed": 0,
+    "DashSpeed": 0,
+    "RunSpeed": 5,
+    "WalkSpeed": 3,
+    "StrafeSpeed": 3,
+    "Tags": [
+        "Default",
+        "Assault"
+        ]
+    }
+}

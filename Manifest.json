@@ -1,0 +1,17 @@
+{
+    "version": "0.2.13",
+  "ClassSets": {
+    "Default": {
+      "DisplayName": "Default"
+    },
+    "Competitive": {
+      "DisplayName": "Competitive"
+    },
+    "Wargames": {
+      "DisplayName": "Wargames"
+    },
+    "CrabsVsRoombas": {
+      "DisplayName": "Crabs Vs Roombas"
+    }
+  }
+}
