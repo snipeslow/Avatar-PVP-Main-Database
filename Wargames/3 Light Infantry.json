@@ -1,10 +1,10 @@
 {
 "Assassin": {
-    "DisplayName": "Assassin",
+    "DisplayName": "Light Infantry",
     "ChestDMG": 500,
     "ChestDMGShieldRatio": 0.5,
-    "HeadDMG": 2000,
-    "HeadDMGShieldRatio": 0.75,
+    "HeadDMG": 500,
+    "HeadDMGShieldRatio": 0.5,
     "DOTDMG": 200,
     "DOTEffectRatio": 0.8,
     "HOTAmount": 250,

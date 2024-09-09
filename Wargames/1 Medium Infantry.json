@@ -1,10 +1,10 @@
 {
 "Assault": {
-    "DisplayName": "Assault",
+    "DisplayName": "Medium Infantry",
     "ChestDMG": 200,
     "ChestDMGShieldRatio": 0.5,
-    "HeadDMG": 1900,
-    "HeadDMGShieldRatio": 0.75,
+    "HeadDMG": 200,
+    "HeadDMGShieldRatio": 0.5,
     "DOTDMG": 200,
     "DOTEffectRatio": 0.8,
     "HOTAmount": 250,

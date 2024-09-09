@@ -1,10 +1,10 @@
 {
 "Tank": {
-    "DisplayName": "Tank",
+    "DisplayName": "Heavy Infantry",
     "ChestDMG": 80,
     "ChestDMGShieldRatio": 0.5,
-    "HeadDMG": 100,
-    "HeadDMGShieldRatio": 0.75,
+    "HeadDMG": 80,
+    "HeadDMGShieldRatio": 0.5,
     "DOTDMG": 160,
     "DOTEffectRatio": 0.8,
     "HOTAmount": 180,
